@@ -11,13 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.3.1
-
-      - uses: oleksiyrudenko/gha-git-credentials@v1
-        with:
-          name: 'Behzad Samadi'
-          email: 'behzad.samadi@gmail.com'
-          actor: 'bsamadi'
-          token: '${{ secrets.GITHUB_TOKEN }}'
         
       - name: npm install and build and deploy
         run: |

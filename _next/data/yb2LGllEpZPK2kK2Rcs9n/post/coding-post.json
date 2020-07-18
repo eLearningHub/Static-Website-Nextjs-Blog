@@ -1,0 +1,1 @@
+{"pageProps":{"frontmatter":{"title":"Coding Post","description":"Coding is such a blissful activity.","date":"April 19, 2020"},"post":{"content":"\n```jsx\nimport React from \"react\";\n\nconst CoolComponent = () => <div>I'm a cool component!!</div>;\n\nexport default CoolComponent;\n```\n","excerpt":""}},"__N_SSG":true}

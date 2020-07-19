@@ -6,7 +6,7 @@ export default {
       summary: "who works building clean user interfaces with React.",
     },
     description: "A blog created with Next.js and Tailwind.css",
-    siteUrl: "https://elearninghub.github.io/Static-Website-Nextjs-Blog/",
+    siteUrl: "https://hardcore-lovelace-658d07.netlify.app/",
     language: "en-US",
     social: {
       twitter: "Jose_R_Felix",
